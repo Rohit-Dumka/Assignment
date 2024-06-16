@@ -58,5 +58,8 @@ The carousel allows you to navigate through videos using the next and previous b
 
 ![photo1718505028](https://github.com/Rohit-Dumka/Assignment/assets/96404582/06204a46-10fe-4a6a-8e2c-7375d8b1ca1c)
 
-
+<pre>
+    2nd API wasn't working fine, the video data should be in binary format .
+    I tried a lot but due to this error video isn't able to load. 
+</pre>
 Congrats 🎉 your project is ready to use now.
