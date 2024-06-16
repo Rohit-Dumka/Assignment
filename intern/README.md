@@ -53,6 +53,10 @@ Open your browser and navigate to http://localhost:5173 (default port for vite+r
 <b>Usage</b>
 Click the button to show the Revspire video carousel.
 The carousel allows you to navigate through videos using the next and previous buttons.
+</pre>
+![photo1718505028 (1)](https://github.com/Rohit-Dumka/Assignment/assets/96404582/385332ef-6e33-416b-b1e3-c80c2396470e)
+
+![photo1718505028](https://github.com/Rohit-Dumka/Assignment/assets/96404582/06204a46-10fe-4a6a-8e2c-7375d8b1ca1c)
+
 
 Congrats 🎉 your project is ready to use now.
-</pre>
